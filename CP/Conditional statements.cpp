@@ -1,3 +1,4 @@
+/*
 if and else are two of the most frequently used conditionals in C/C++, and they enable you to execute zero or one conditional statement among many such dependent conditional statements. We use them in the following ways:
 
 if: This executes the body of bracketed code starting with  if  evaluates to true.
@@ -80,7 +81,8 @@ Explanation 2
  
  
  CODE********************************************************8
- 
+ */
+
  
  #include <bits/stdc++.h>
 using namespace std;
