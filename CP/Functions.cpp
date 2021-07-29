@@ -1,3 +1,4 @@
+/*
 Input Format
 
 Input will contain four integers -  , one per line.
@@ -21,7 +22,7 @@ Sample Output
 
 CODE**************************************************************************
 
-
+*/
 
 
 #include <iostream>
