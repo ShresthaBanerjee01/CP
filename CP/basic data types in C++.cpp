@@ -1,4 +1,4 @@
-```C++
+
 #include <iostream>
 #include <iomanip>
 #include <cstdio>
@@ -20,4 +20,4 @@ int main() {
     cout << setprecision(9) << e << endl;
     return 0;
 }
-```
+
